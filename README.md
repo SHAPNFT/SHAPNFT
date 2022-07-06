@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+We are ownable audio! 
+
+Hibbs&Polley have solved the issues with music royalties within the music industry. 
+Using a proprietary solution called SHAP NFT we offer a service that converts lossless audio into an NFT that can be sold on a marketplace, as well as a service that decodes said NFT back to usable audio, all the way to Atmos. When an artist mints their NFT, it contains the partial rights to that song. They are able to sell this to any investor, whether individual or corporate. This then gives money directly to the artist, who can use that to grow their following and gain publicity. This system removes the need for a record labels royalty charge and gives the artist a chance to publish music under their own brand. 
+Furthermore, Hibbs&Polley have their own cryptocurrency called (SHAP) that can be used to use the service, as well as other cryptocurrencies. With current liquidity the cryptocurrency has a market capital of £1.43 million which is set to increase with demand. Money: the company will gain capital with every transaction of the SHAP audio NFT system, as well as a portion of sales for all NFTs using this process. 
+That being said, do artists really need a record label or entity to manage the music if this system is in place?
+
 <!--
 **SHAPNFT/SHAPNFT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
